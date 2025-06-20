@@ -19,7 +19,7 @@
 
 ## My Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c#,.net,sqlserver,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,html,css,js,ts,docker,php,dotnet&theme=dark" />
 
 ## About me
 
